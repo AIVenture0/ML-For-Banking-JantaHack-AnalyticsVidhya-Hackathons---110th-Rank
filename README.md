@@ -3,7 +3,7 @@
 
 ### ML-For-Banking-JantaHack-AnalyticsVidhya-Hackathons
 
-<center><img src="https://datahack-prod.s3.ap-south-1.amazonaws.com/__sized__/contest_cover/cover_1_OIHLvzm-thumbnail-1200x1200.png"/></center>
+<center><img src="https://raw.githubusercontent.com/AIVenture0/ML-For-Banking-JantaHack-AnalyticsVidhya-Hackathons---110th-Rank/master/hackathon_image.png"/></center>
 
 ## Introduction
 
